@@ -1,6 +1,6 @@
 object Form7: TForm7
-  Left = 245
-  Top = 135
+  Left = 223
+  Top = 205
   Width = 928
   Height = 480
   Caption = 'Informasi Jadwal Praktikum Reguler'

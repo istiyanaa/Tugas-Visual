@@ -47,6 +47,10 @@ object Form9: TForm9
         Caption = 'INFORMASI PENYAKIT'
         OnClick = mniINFORMASIPENYAKIT1Click
       end
+      object JADWALPRAKTIKUM2: TMenuItem
+        Caption = 'JADWAL PRAKTIKUM 2'
+        OnClick = JADWALPRAKTIKUM2Click
+      end
     end
     object LATIHAN1: TMenuItem
       Caption = 'LATIHAN'
